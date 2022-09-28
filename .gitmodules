@@ -1,0 +1,6 @@
+[submodule "farm-frontend"]
+	path = farm-frontend
+	url = https://github.com/doubletaco/farm-frontend
+[submodule "farm-backend"]
+	path = farm-backend
+	url = https://github.com/doubletaco/farm-backend
